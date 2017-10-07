@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lvjiaming/Documents/WorkSpace/cpp-test/cpp-test/3-3-4/HasPtrMem.cpp
+HasPtrMem.h
+/Users/lvjiaming/Documents/WorkSpace/cpp-test/cpp-test/3-3-4/HasPtrMem.h
+
+/Users/lvjiaming/Documents/WorkSpace/cpp-test/cpp-test/3-3-4/HasPtrMem.h
+stdio.h
+-
+iostream
+-
+
+/Users/lvjiaming/Documents/WorkSpace/cpp-test/cpp-test/3-3-4/main.cpp
+iostream
+-
+string
+-
+HasPtrMem.h
+/Users/lvjiaming/Documents/WorkSpace/cpp-test/cpp-test/3-3-4/HasPtrMem.h
+
